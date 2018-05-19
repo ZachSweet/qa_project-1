@@ -39,7 +39,7 @@ def get_answer(question, story):
 
     """
 
-    
+
 
     ###     Your Code Goes Here         ###
 
@@ -51,10 +51,19 @@ def get_answer(question, story):
 
     #answer = zach's
 
+    #after all that^ return raw sentence text + parsed
+
+    #zach: answer =
+
+
+
+
+
+    #
+
 
 
     answer = "whatever you think the answer is"
-
     ###     End of Your Code         ###
     return answer
 
